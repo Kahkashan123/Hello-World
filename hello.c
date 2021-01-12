@@ -3,5 +3,5 @@ void main()
 {
 printf("Hello World...!");
   printf("\nThis is the basic C program")
-    printf("n\This is a larning journey of working of github")
+    printf("\nThis is a larning journey of working of github")
 }
