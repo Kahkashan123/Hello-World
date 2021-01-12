@@ -3,5 +3,4 @@ void main()
 {
 printf("Hello World...!");
   printf("\nThis is the basic C program")
-    pritntf("\nThis is a github learning program")
 }
